@@ -1,1 +1,2 @@
 # Next.Js-project
+init
