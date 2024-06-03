@@ -30,7 +30,7 @@ export default function RootLayout({
           <ConvexClientProvider>
     <html lang="en">
       <body className="flex h-screen  items-center justify-center ">
-          <UserButton />
+        
         {children}
         </body>
     </html>
